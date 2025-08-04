@@ -1,0 +1,75 @@
+{
+  "name": "jepson-pottery-videos",
+  "private": true,
+  "version": "2.2.0",
+  "description": "Stephen Jepson's pottery instruction website - PURE POTTERY ONLY",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.344.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.8.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "@types/node": "^24.0.7",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^9.9.1",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.11",
+    "globals": "^15.9.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^8.3.0",
+    "vite": "^5.4.2"
+  },
+  "keywords": [
+    "pottery-instruction",
+    "ceramic-arts",
+    "pottery-videos",
+    "stephen-jepson",
+    "pottery-classes",
+    "wheel-throwing",
+    "hand-building",
+    "pottery-glazing",
+    "geneva-florida-pottery"
+  ],
+  "author": "Stephen Jepson - Jepson Pottery Videos",
+  "homepage": "https://jepsonpotteryvideos.com",
+  "changelog": {
+    "2.2.0": {
+      "date": "2025-01-01",
+      "features": [
+        "COMPLETE SPEAKING GALLERY REMOVAL: All playground/wellness content eliminated",
+        "Removed all keynote, healthcare summit, wellness philosophy content",
+        "Deleted speaking gallery images and references",
+        "Pure pottery site with zero wellness contamination",
+        "Clean App.tsx with only pottery components"
+      ],
+      "fixes": [
+        "No more 'Stephen's Speaking Gallery' anywhere",
+        "No keynote health summit presentations",
+        "No wellness philosophy content",
+        "No Never Leave the Playground references",
+        "100% pottery business focus maintained"
+      ],
+      "business": [
+        "jepsonpotteryvideos.com = PURE POTTERY ONLY",
+        "Stephen Jepson pottery instruction exclusively",
+        "Geneva Florida pottery classes and videos",
+        "Complete separation from wellness business",
+        "Professional pottery education focus"
+      ]
+    }
+  }
+}

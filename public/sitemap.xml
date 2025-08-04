@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Jepson Pottery Videos - Professional Pottery Instruction Website -->
+  
+  <!-- Main Homepage with Video Content and Reviews -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery2.jpg</video:thumbnail_loc>
+      <video:title>Jepson Pottery Videos - Professional Pottery Instruction Series</video:title>
+      <video:description>Master pottery techniques with Stephen Jepson's comprehensive video tutorial series featuring wheel throwing, hand building, glazing, and advanced pottery methods.</video:description>
+      <video:content_loc>https://youtu.be/mvriVWZUuUQ</video:content_loc>
+      <video:player_loc>https://jepsonpotteryvideos.com/#videos</video:player_loc>
+      <video:duration>2730</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>pottery instruction</video:tag>
+      <video:tag>wheel throwing</video:tag>
+      <video:tag>ceramic arts</video:tag>
+      <video:tag>Stephen Jepson</video:tag>
+      <video:category>Education</video:category>
+    </video:video>
+  </url>
+  
+  <!-- About Stephen with Reviews -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/about</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://jepsonpotteryvideos.com/st1.png</image:loc>
+      <image:caption>Stephen Jepson - Master Potter with 60+ years experience</image:caption>
+      <image:title>Stephen Jepson Master Potter Geneva Florida</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Video Series Page with Enhanced Video SEO -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/videos</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <!-- Individual Video Entries for Better SEO -->
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery2.jpg</video:thumbnail_loc>
+      <video:title>Advanced Throwing Projects and Techniques</video:title>
+      <video:description>Master advanced pottery wheel throwing techniques with professional guidance from expert instructors including Danish National Champion Bill Gossman.</video:description>
+      <video:content_loc>https://youtu.be/mvriVWZUuUQ</video:content_loc>
+      <video:duration>2730</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>advanced throwing</video:tag>
+      <video:tag>pottery wheel</video:tag>
+      <video:tag>ceramic techniques</video:tag>
+      <video:tag>Bill Gossman</video:tag>
+      <video:tag>Danish National Champion</video:tag>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery5.jpg</video:thumbnail_loc>
+      <video:title>How To Throw Large Pots - 4 Feet Tall</video:title>
+      <video:description>Learn to make pots up to 4 feet tall and platters over 3 feet wide with Stephen Jepson and Danish National Throwing Champion Bill Gossman.</video:description>
+      <video:content_loc>https://youtu.be/783vxblEIHg</video:content_loc>
+      <video:duration>3135</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>large pottery</video:tag>
+      <video:tag>4 feet tall</video:tag>
+      <video:tag>oversized ceramics</video:tag>
+      <video:tag>large scale pottery</video:tag>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery3.jpg</video:thumbnail_loc>
+      <video:title>Kiln Building - Complete Construction Guide</video:title>
+      <video:description>A straightforward solution to building a 20 to 100 cubic foot and larger down draft, walk-in, car, sprung arch kiln suitable for firing earthenware, white ware, stoneware, porcelain and bisque.</video:description>
+      <video:content_loc>https://youtu.be/RXG5O-sr_dU</video:content_loc>
+      <video:duration>3600</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>kiln building</video:tag>
+      <video:tag>pottery firing</video:tag>
+      <video:tag>kiln construction</video:tag>
+      <video:tag>atmospheric burners</video:tag>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery7.jpg</video:thumbnail_loc>
+      <video:title>Pottery Decoration Techniques</video:title>
+      <video:description>Based on Tom Shafer's book 'Pottery Decoration', learn incising, carving, stamping, slip trailing, sgraffito, inlay, wax resist, marbled and mosaic patterns.</video:description>
+      <video:content_loc>https://youtu.be/oliDf5Ifm3U</video:content_loc>
+      <video:duration>4440</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>pottery decoration</video:tag>
+      <video:tag>sgraffito</video:tag>
+      <video:tag>slip trailing</video:tag>
+      <video:tag>Tom Shafer</video:tag>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery4.jpg</video:thumbnail_loc>
+      <video:title>Introduction to Hand Building</video:title>
+      <video:description>Master hand building pottery techniques at home. Learn pinch pots, coil pots, slab construction, cylinders, salt cellars, mugs, vases, press molds, hump molds.</video:description>
+      <video:content_loc>https://youtu.be/Yb0DNIeNFJ4</video:content_loc>
+      <video:duration>4800</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>hand building</video:tag>
+      <video:tag>coil pottery</video:tag>
+      <video:tag>slab construction</video:tag>
+      <video:tag>pinch pots</video:tag>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery8.jpg</video:thumbnail_loc>
+      <video:title>Glazing and Firing Mastery</video:title>
+      <video:description>Complete guide to preparing greenware for bisque, loading electric and gas kilns, waxing, glaze mixing, glazing by dipping/pouring/spraying, glaze testing.</video:description>
+      <video:content_loc>https://youtu.be/Al2n2RGFRAg</video:content_loc>
+      <video:duration>6360</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>pottery glazing</video:tag>
+      <video:tag>kiln firing</video:tag>
+      <video:tag>ceramic glazes</video:tag>
+      <video:tag>glaze testing</video:tag>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery-images-1a.JPG</video:thumbnail_loc>
+      <video:title>Successfully Marketing Your Production</video:title>
+      <video:description>Real insider information on making over $1,000,000 in pottery sales. Covers studio sales, art fairs, trade shows, co-ops, consignments, commissions.</video:description>
+      <video:content_loc>https://youtu.be/_ngeLigUMp4</video:content_loc>
+      <video:duration>5400</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>pottery business</video:tag>
+      <video:tag>pottery marketing</video:tag>
+      <video:tag>pottery sales</video:tag>
+      <video:tag>art fairs</video:tag>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery-images-2.jpeg</video:thumbnail_loc>
+      <video:title>Introduction to Throwing</video:title>
+      <video:description>Perfect for beginners! Learn centering, opening, pulling up walls, then progress to throwing plates, platters, saucers, mugs, cups, bowls, pitchers.</video:description>
+      <video:content_loc>https://youtu.be/lOu8UdBx590</video:content_loc>
+      <video:duration>3180</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>beginner pottery</video:tag>
+      <video:tag>pottery basics</video:tag>
+      <video:tag>wheel throwing basics</video:tag>
+      <video:tag>centering clay</video:tag>
+    </video:video>
+  </url>
+  
+  <!-- Gallery with Image SEO -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/gallery</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://jepsonpotteryvideos.com/pottery2.jpg</image:loc>
+      <image:caption>Stephen Jepson pottery collection featuring advanced ceramic techniques</image:caption>
+      <image:title>Professional Pottery Gallery Geneva Florida</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jepsonpotteryvideos.com/pottery3.jpg</image:loc>
+      <image:caption>Handcrafted pottery demonstrating wheel throwing mastery</image:caption>
+      <image:title>Wheel Throwing Pottery Examples Stephen Jepson</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jepsonpotteryvideos.com/pottery4.jpg</image:loc>
+      <image:caption>Professional pottery instruction and ceramic arts education</image:caption>
+      <image:title>Pottery Classes Geneva Florida Stephen Jepson</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Classes Page -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/classes</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Shop Page -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/shop</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/contact</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Reviews and Testimonials Page -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/reviews</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Enhanced Pottery Technique SEO Pages with Video Content -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/wheel-throwing-classes</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery2.jpg</video:thumbnail_loc>
+      <video:title>Wheel Throwing Classes - Professional Pottery Instruction</video:title>
+      <video:description>Learn professional wheel throwing techniques including centering, opening, pulling walls, and creating beautiful pottery forms.</video:description>
+      <video:content_loc>https://youtu.be/lOu8UdBx590</video:content_loc>
+      <video:duration>3180</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>wheel throwing</video:tag>
+      <video:tag>pottery classes</video:tag>
+      <video:tag>centering clay</video:tag>
+    </video:video>
+  </url>
+  
+  <url>
+    <loc>https://jepsonpotteryvideos.com/hand-building-pottery</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery4.jpg</video:thumbnail_loc>
+      <video:title>Hand Building Pottery Techniques</video:title>
+      <video:description>Master hand building pottery techniques including pinch pots, coil construction, slab building, and press molds.</video:description>
+      <video:content_loc>https://youtu.be/Yb0DNIeNFJ4</video:content_loc>
+      <video:duration>4800</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>hand building</video:tag>
+      <video:tag>coil pottery</video:tag>
+      <video:tag>slab construction</video:tag>
+    </video:video>
+  </url>
+  
+  <url>
+    <loc>https://jepsonpotteryvideos.com/large-scale-pottery-4-feet</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery5.jpg</video:thumbnail_loc>
+      <video:title>Large Scale Pottery - 4 Feet Tall Vessels</video:title>
+      <video:description>Learn to create massive pottery pieces up to 4 feet tall with Danish National Champion Bill Gossman and Stephen Jepson.</video:description>
+      <video:content_loc>https://youtu.be/783vxblEIHg</video:content_loc>
+      <video:duration>3135</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>large pottery</video:tag>
+      <video:tag>4 feet tall</video:tag>
+      <video:tag>oversized ceramics</video:tag>
+    </video:video>
+  </url>
+  
+  <url>
+    <loc>https://jepsonpotteryvideos.com/pottery-glazing-firing</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery8.jpg</video:thumbnail_loc>
+      <video:title>Pottery Glazing and Firing Mastery</video:title>
+      <video:description>Complete guide to pottery glazing techniques, kiln loading, firing methods, and achieving professional ceramic finishes.</video:description>
+      <video:content_loc>https://youtu.be/Al2n2RGFRAg</video:content_loc>
+      <video:duration>6360</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>pottery glazing</video:tag>
+      <video:tag>kiln firing</video:tag>
+      <video:tag>ceramic glazes</video:tag>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/pottery-decoration-techniques</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery7.jpg</video:thumbnail_loc>
+      <video:title>Pottery Decoration Techniques - Sgraffito and More</video:title>
+      <video:description>Learn professional pottery decoration including sgraffito, slip trailing, carving, stamping, and advanced ceramic surface treatments.</video:description>
+      <video:content_loc>https://youtu.be/oliDf5Ifm3U</video:content_loc>
+      <video:duration>4440</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>pottery decoration</video:tag>
+      <video:tag>sgraffito</video:tag>
+      <video:tag>slip trailing</video:tag>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/kiln-building-construction</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery3.jpg</video:thumbnail_loc>
+      <video:title>Kiln Building - Complete Construction Guide</video:title>
+      <video:description>Professional kiln building guide for constructing 20-100+ cubic foot kilns suitable for all pottery firing needs including atmospheric burners and safety.</video:description>
+      <video:content_loc>https://youtu.be/RXG5O-sr_dU</video:content_loc>
+      <video:duration>3600</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>kiln building</video:tag>
+      <video:tag>kiln construction</video:tag>
+      <video:tag>pottery firing</video:tag>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/pottery-marketing-business</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery-images-1a.JPG</video:thumbnail_loc>
+      <video:title>Successfully Marketing Your Pottery Production</video:title>
+      <video:description>Real insider information on making over $1,000,000 in pottery sales including studio sales, art fairs, marketing strategies, and business success.</video:description>
+      <video:content_loc>https://youtu.be/_ngeLigUMp4</video:content_loc>
+      <video:duration>5400</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>pottery business</video:tag>
+      <video:tag>pottery marketing</video:tag>
+      <video:tag>pottery sales</video:tag>
+    </video:video>
+  </url>
+
+  <!-- Location-based SEO -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/geneva-florida-pottery-classes</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/seminole-county-pottery-instruction</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Video Series & Products with Enhanced SEO -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/pottery-video-series</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery2.jpg</video:thumbnail_loc>
+      <video:title>Complete Pottery Video Series - 8 Professional Tutorials</video:title>
+      <video:description>Master pottery with 8 comprehensive video tutorials covering wheel throwing, hand building, glazing, firing, decoration, and pottery business success.</video:description>
+      <video:content_loc>https://payhip.com/b/89jNv</video:content_loc>
+      <video:duration>32400</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>pottery video series</video:tag>
+      <video:tag>pottery instruction</video:tag>
+      <video:tag>ceramic education</video:tag>
+      <video:tag>Stephen Jepson</video:tag>
+    </video:video>
+  </url>
+  
+  <!-- Individual Video Deep Links with Enhanced Metadata -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/video-advanced-throwing</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery2.jpg</video:thumbnail_loc>
+      <video:title>Advanced Throwing Projects and Techniques</video:title>
+      <video:description>Master advanced pottery wheel throwing techniques with professional guidance from expert instructors including Danish National Champion Bill Gossman.</video:description>
+      <video:content_loc>https://youtu.be/mvriVWZUuUQ</video:content_loc>
+      <video:player_loc>https://jepsonpotteryvideos.com/#video-advanced-throwing</video:player_loc>
+      <video:duration>2730</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/video-large-pots</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery5.jpg</video:thumbnail_loc>
+      <video:title>How To Throw Large Pots - 4 Feet Tall</video:title>
+      <video:description>Learn to make pots up to 4 feet tall and platters over 3 feet wide with Stephen Jepson and Danish National Throwing Champion Bill Gossman.</video:description>
+      <video:content_loc>https://youtu.be/783vxblEIHg</video:content_loc>
+      <video:player_loc>https://jepsonpotteryvideos.com/#video-large-pots</video:player_loc>
+      <video:duration>3135</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/video-kiln-building</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery3.jpg</video:thumbnail_loc>
+      <video:title>Kiln Building - Complete Construction Guide</video:title>
+      <video:description>Professional kiln building guide for constructing 20-100+ cubic foot kilns suitable for all pottery firing needs.</video:description>
+      <video:content_loc>https://youtu.be/RXG5O-sr_dU</video:content_loc>
+      <video:player_loc>https://jepsonpotteryvideos.com/#video-kiln-building</video:player_loc>
+      <video:duration>3600</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/video-decoration</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery7.jpg</video:thumbnail_loc>
+      <video:title>Pottery Decoration Techniques</video:title>
+      <video:description>Learn professional pottery decoration including sgraffito, slip trailing, carving, stamping, and advanced ceramic surface treatments.</video:description>
+      <video:content_loc>https://youtu.be/oliDf5Ifm3U</video:content_loc>
+      <video:player_loc>https://jepsonpotteryvideos.com/#video-decoration</video:player_loc>
+      <video:duration>4440</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/video-hand-building</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery4.jpg</video:thumbnail_loc>
+      <video:title>Introduction to Hand Building</video:title>
+      <video:description>Master hand building pottery techniques including pinch pots, coil construction, slab building, and press molds.</video:description>
+      <video:content_loc>https://youtu.be/Yb0DNIeNFJ4</video:content_loc>
+      <video:player_loc>https://jepsonpotteryvideos.com/#video-hand-building</video:player_loc>
+      <video:duration>4800</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/video-glazing-firing</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery8.jpg</video:thumbnail_loc>
+      <video:title>Glazing and Firing Mastery</video:title>
+      <video:description>Complete guide to pottery glazing techniques, kiln loading, firing methods, and achieving professional ceramic finishes.</video:description>
+      <video:content_loc>https://youtu.be/Al2n2RGFRAg</video:content_loc>
+      <video:player_loc>https://jepsonpotteryvideos.com/#video-glazing-firing</video:player_loc>
+      <video:duration>6360</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/video-marketing</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery-images-1a.JPG</video:thumbnail_loc>
+      <video:title>Successfully Marketing Your Production</video:title>
+      <video:description>Real insider information on making over $1,000,000 in pottery sales including studio sales, art fairs, and marketing strategies.</video:description>
+      <video:content_loc>https://youtu.be/_ngeLigUMp4</video:content_loc>
+      <video:player_loc>https://jepsonpotteryvideos.com/#video-marketing</video:player_loc>
+      <video:duration>5400</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/video-introduction-throwing</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <video:video>
+      <video:thumbnail_loc>https://jepsonpotteryvideos.com/pottery-images-2.jpeg</video:thumbnail_loc>
+      <video:title>Introduction to Throwing</video:title>
+      <video:description>Perfect for beginners! Learn centering, opening, pulling walls, then progress to throwing plates, platters, saucers, mugs, cups, bowls, and pitchers.</video:description>
+      <video:content_loc>https://youtu.be/lOu8UdBx590</video:content_loc>
+      <video:player_loc>https://jepsonpotteryvideos.com/#video-introduction-throwing</video:player_loc>
+      <video:duration>3180</video:duration>
+      <video:publication_date>2025-07-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+
+  <!-- Student Reviews and Testimonials Pages -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/student-reviews</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/pottery-class-testimonials</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/video-series-reviews</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Success Stories and Case Studies -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/student-success-stories</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/pottery-business-success</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Advanced Technique Pages -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/advanced-throwing-techniques</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/introduction-to-throwing</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Professional Development Pages -->
+  <url>
+    <loc>https://jepsonpotteryvideos.com/pottery-instructor-training</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://jepsonpotteryvideos.com/ceramic-arts-certification</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

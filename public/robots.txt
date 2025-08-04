@@ -1,0 +1,52 @@
+User-agent: *
+Allow: /
+
+# Sitemap for Jepson Pottery Videos (Pottery Instruction)
+Sitemap: https://jepsonpotteryvideos.com/sitemap.xml
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Allow all search engines to index content
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Allow image indexing
+User-agent: Googlebot-Image
+Allow: /
+
+# Pottery-specific pages
+Allow: /about
+Allow: /videos
+Allow: /gallery
+Allow: /classes
+Allow: /shop
+Allow: /contact
+Allow: /wheel-throwing-classes
+Allow: /hand-building-pottery
+Allow: /large-scale-pottery-4-feet
+Allow: /pottery-glazing-firing
+Allow: /pottery-decoration-techniques
+Allow: /pottery-marketing-business
+Allow: /geneva-florida-pottery-classes
+Allow: /seminole-county-pottery-instruction
+Allow: /pottery-video-series
+Allow: /advanced-throwing-techniques
+Allow: /introduction-to-throwing
+
+# Block any admin or private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /*.xml$ 
+Allow: /sitemap.xml
+
+# External resources for pottery instruction
+Allow: https://payhip.com/b/89jNv
+Allow: https://never-leave-the-playground.mailchimpsites.com/
+
+# Cross-reference to wellness/speaking site (separate domain)
+# Wellness site: https://neverleavetheplayground.com/ (separate domain with own sitemap)

@@ -1,0 +1,113 @@
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+# Jepson Pottery Videos specific SEO redirects
+[[redirects]]
+  from = "/pottery-wheel-throwing-classes"
+  to = "/#classes"
+  status = 302
+
+[[redirects]]
+  from = "/hand-building-pottery-techniques"
+  to = "/#classes"
+  status = 302
+
+[[redirects]]
+  from = "/large-scale-pottery-4-feet-tall"
+  to = "/#videos"
+  status = 302
+
+[[redirects]]
+  from = "/pottery-glazing-firing-techniques"
+  to = "/#videos"
+  status = 302
+
+[[redirects]]
+  from = "/pottery-decoration-sgraffito"
+  to = "/#videos"
+  status = 302
+
+[[redirects]]
+  from = "/pottery-marketing-business-success"
+  to = "/#videos"
+  status = 302
+
+[[redirects]]
+  from = "/geneva-florida-pottery-classes"
+  to = "/#classes"
+  status = 302
+
+# Legacy redirects from old site structure
+[[redirects]]
+  from = "/about"
+  to = "/#about"
+  status = 301
+
+[[redirects]]
+  from = "/videos"
+  to = "/#videos"
+  status = 301
+
+[[redirects]]
+  from = "/classes"
+  to = "/#classes"
+  status = 301
+
+[[redirects]]
+  from = "/shop"
+  to = "/#shop"
+  status = 301
+
+[[redirects]]
+  from = "/contact"
+  to = "/#contact"
+  status = 301
+
+# External redirects for pottery business
+[[redirects]]
+  from = "/newsletter"
+  to = "https://never-leave-the-playground.mailchimpsites.com/"
+  status = 302
+
+[[redirects]]
+  from = "/video-series"
+  to = "https://payhip.com/b/89jNv"
+  status = 302
+
+# Wellness site redirect (separate business)
+[[redirects]]
+  from = "/wellness"
+  to = "https://neverleavetheplayground.com/"
+  status = 302
+
+# Catch-all for SPA routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Headers for CORS and security
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; img-src 'self' data: https: http:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self' https://www.google-analytics.com;"
+
+# Cache static assets
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Cache HTML with revalidation
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
