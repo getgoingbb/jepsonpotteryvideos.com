@@ -190,7 +190,7 @@ const Classes = () => {
   const handleGetVideoSeries = () => {
     // Track purchase intent
     if (window.trackPurchase) {
-      window.trackPurchase(29.99, 'USD');
+      window.trackPurchase(49.99, 'USD');
     }
     window.open('https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV', '_blank');
   };
@@ -227,7 +227,7 @@ const Classes = () => {
               <p className="text-gray-600 mb-4">
                 7 professional video tutorials covering all aspects of pottery from beginner to advanced techniques
               </p>
-              <div className="text-3xl font-bold text-amber-600 mb-2">$29.99</div>
+              <div className="text-3xl font-bold text-amber-600 mb-2">$49.99</div>
               <p className="text-sm text-gray-500 mb-4">Quality streaming • PayHip subscription • Lifetime access</p>
               <button
                 onClick={handleGetVideoSeries}
@@ -398,7 +398,7 @@ const Classes = () => {
                 // FIXED: Added missing "offers" field
                 "offers": {
                   "@type": "Offer",
-                  "price": "29.99",
+                  "price": "49.99",
                   "priceCurrency": "USD",
                   "availability": "https://schema.org/InStock",
                   "url": "https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV",

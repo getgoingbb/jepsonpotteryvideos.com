@@ -242,7 +242,7 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold text-lg mb-1">Services Available</h4>
                   <div className="text-gray-300 space-y-1">
-                    <p>• Pottery Video Series ($29.99)</p>
+                    <p>• Pottery Video Series ($49.99)</p>
                     <p>• Personalized Pottery Classes</p>
                     <p>• Workshop Instruction</p>
                     <p>• Custom Pottery Orders</p>

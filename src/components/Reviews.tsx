@@ -10,7 +10,7 @@ const Reviews = () => {
       location: "Orlando, FL",
       rating: 5,
       title: "Life-Changing Pottery Experience",
-      review: "Stephen's video series completely transformed my pottery skills. I went from struggling with centering clay to creating beautiful, large vessels. His teaching style is clear, patient, and incredibly detailed. The $29.99 investment has paid for itself many times over.",
+      review: "Stephen's video series completely transformed my pottery skills. I went from struggling with centering clay to creating beautiful, large vessels. His teaching style is clear, patient, and incredibly detailed. The $49.99 investment has paid for itself many times over.",
       course: "Complete Video Series",
       date: "2024-12-15",
       verified: true,
@@ -270,7 +270,7 @@ const Reviews = () => {
               {
                 icon: <CheckCircle className="text-green-500" size={32} />,
                 title: "Great Value",
-                description: "$29.99 for professional instruction",
+                description: "$49.99 for professional instruction",
                 count: "100% say worth the investment"
               }
             ].map((category, index) => (
@@ -297,7 +297,7 @@ const Reviews = () => {
               onClick={() => window.open('https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV', '_blank')}
               className="bg-white text-amber-700 hover:bg-gray-100 px-8 py-4 rounded-full font-bold text-lg transition-all duration-300 transform hover:scale-105 shadow-xl"
             >
-              Get Video Series - $29.99
+              Get Video Series - $49.99
             </button>
             <button
               onClick={() => window.open('tel:407-349-5587')}
@@ -324,7 +324,7 @@ const Reviews = () => {
             },
             "offers": {
               "@type": "Offer",
-              "price": "29.99",
+              "price": "49.99",
               "priceCurrency": "USD",
               "availability": "https://schema.org/InStock"
             },

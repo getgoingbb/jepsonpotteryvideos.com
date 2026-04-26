@@ -384,7 +384,7 @@ export const trackVideoPlay = (videoId: string, videoTitle: string) => {
   });
 };
 
-export const trackVideoPurchase = (value: number = 29.99) => {
+export const trackVideoPurchase = (value: number = 49.99) => {
   analytics.trackPurchase({
     transactionId: `txn_${Date.now()}`,
     value,

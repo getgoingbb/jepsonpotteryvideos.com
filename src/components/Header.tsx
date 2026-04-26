@@ -107,7 +107,7 @@ const Header = () => {
               className="bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white px-6 py-3 rounded-full font-semibold transition-all duration-300 transform hover:scale-105 flex items-center shadow-lg"
             >
               <ShoppingCart size={18} className="mr-2" />
-              Get Video Series - $29.99
+              Get Video Series - $49.99
             </button>
           </div>
 
@@ -189,7 +189,7 @@ const Header = () => {
                   }}
                   className="block w-full bg-gradient-to-r from-amber-500 to-orange-500 text-white px-6 py-3 rounded-full font-semibold text-center"
                 >
-                  Get Video Series - $29.99
+                  Get Video Series - $49.99
                 </button>
               </div>
             </div>

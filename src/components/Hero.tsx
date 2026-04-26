@@ -16,8 +16,8 @@ const Hero = () => {
   };
 
   const handleBookClass = () => {
-    trackEvent('click', 'CTA', 'Get Video Series Button', 29.99);
-    trackEvent('begin_checkout', 'Ecommerce', 'Video Series', 29.99);
+    trackEvent('click', 'CTA', 'Get Video Series Button', 49.99);
+    trackEvent('begin_checkout', 'Ecommerce', 'Video Series', 49.99);
     window.open('https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV', '_blank');
   };
 
@@ -64,7 +64,7 @@ const Hero = () => {
             onClick={handleBookClass}
             className="border-2 border-white text-white hover:bg-white hover:text-gray-900 px-8 py-4 rounded-lg font-semibold transition-all duration-300"
           >
-            Get Video Series - $29.99
+            Get Video Series - $49.99
           </button>
           <button 
             onClick={handleWatchVideos}

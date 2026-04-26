@@ -117,8 +117,8 @@ const VideoGallery = () => {
   };
 
   const handleSubscribe = () => {
-    trackPurchase(29.99, 'Pottery Video Series');
-    trackEvent('purchase_intent', 'Ecommerce', 'Video Series', 29.99);
+    trackPurchase(49.99, 'Pottery Video Series');
+    trackEvent('purchase_intent', 'Ecommerce', 'Video Series', 49.99);
     window.open('https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV', '_blank');
   };
 
@@ -240,7 +240,7 @@ const VideoGallery = () => {
             <div className="flex items-center justify-center mb-6">
               <div className="text-center">
                 <div className="flex items-baseline justify-center">
-                  <span className="text-5xl font-bold text-amber-600">$29.99</span>
+                  <span className="text-5xl font-bold text-amber-600">$49.99</span>
                   <span className="text-gray-500 ml-2 text-lg">one-time payment</span>
                 </div>
                 <p className="text-sm text-gray-500 mt-1">No monthly fees • Instant access • Over 9 hours of content</p>
@@ -307,7 +307,7 @@ const VideoGallery = () => {
             "offers": {
               "@type": "Offer",
               "name": "Complete Pottery Video Series",
-              "price": "29.99",
+              "price": "49.99",
               "priceCurrency": "USD",
               "url": "https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV",
               "description": "8 professional video tutorials, PDF guides, lifetime access",
@@ -392,7 +392,7 @@ const VideoGallery = () => {
               // FIXED: Added missing "offers" field for each video
               "offers": {
                 "@type": "Offer",
-                "price": "29.99",
+                "price": "49.99",
                 "priceCurrency": "USD",
                 "availability": "https://schema.org/InStock",
                 "url": "https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV",

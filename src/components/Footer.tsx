@@ -98,7 +98,7 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-6">Pottery Services</h4>
             <ul className="space-y-3">
-              <li><span className="text-gray-300">Video Series ($29.99)</span></li>
+              <li><span className="text-gray-300">Video Series ($49.99)</span></li>
               <li><span className="text-gray-300">Wheel Throwing Classes</span></li>
               <li><span className="text-gray-300">Hand Building Instruction</span></li>
               <li><span className="text-gray-300">Glazing & Firing Techniques</span></li>
