@@ -124,6 +124,33 @@ const Footer = () => {
             {/* Related Sites - FIXED TO OPEN EXTERNALLY */}
             <div className="mt-6 pt-6 border-t border-gray-700">
               <h5 className="text-sm font-semibold text-gray-400 mb-3">Also by Stephen Jepson</h5>
+              <a
+                href="https://stephen.jepsonpotteryvideos.com"
+                target="_blank"
+                rel="noopener"
+                className="text-gray-300 hover:text-amber-400 transition-colors duration-200 flex items-center text-sm mb-2"
+              >
+                <ExternalLink size={14} className="mr-2" />
+                Pottery Master Class Videos
+              </a>
+              <a
+                href="https://jepson-pottery-blog.netlify.app"
+                target="_blank"
+                rel="noopener"
+                className="text-gray-300 hover:text-amber-400 transition-colors duration-200 flex items-center text-sm mb-2"
+              >
+                <ExternalLink size={14} className="mr-2" />
+                Pottery Blog
+              </a>
+              <a
+                href="https://www.instagram.com/jepsonpotteryvideos/"
+                target="_blank"
+                rel="noopener"
+                className="text-gray-300 hover:text-pink-400 transition-colors duration-200 flex items-center text-sm mb-2"
+              >
+                <ExternalLink size={14} className="mr-2" />
+                Instagram
+              </a>
               <button
                 onClick={handleWellnessSiteClick}
                 className="text-gray-300 hover:text-blue-400 transition-colors duration-200 flex items-center text-sm"
