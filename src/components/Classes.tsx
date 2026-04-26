@@ -192,7 +192,7 @@ const Classes = () => {
     if (window.trackPurchase) {
       window.trackPurchase(49.99, 'USD');
     }
-    window.open('https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV', '_blank');
+    window.open('https://payhip.com/b/89jNv', '_blank');
   };
 
   const handlePersonalizedClasses = () => {
@@ -401,7 +401,7 @@ const Classes = () => {
                   "price": "49.99",
                   "priceCurrency": "USD",
                   "availability": "https://schema.org/InStock",
-                  "url": "https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV",
+                  "url": "https://payhip.com/b/89jNv",
                   "category": "Pottery Education",
                   "description": "Included in complete pottery video series"
                 },

@@ -18,7 +18,7 @@ const Hero = () => {
   const handleBookClass = () => {
     trackEvent('click', 'CTA', 'Get Video Series Button', 49.99);
     trackEvent('begin_checkout', 'Ecommerce', 'Video Series', 49.99);
-    window.open('https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV', '_blank');
+    window.open('https://payhip.com/b/89jNv', '_blank');
   };
 
   const handleWatchVideos = () => {

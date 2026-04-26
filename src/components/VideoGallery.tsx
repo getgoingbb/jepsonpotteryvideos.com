@@ -119,7 +119,7 @@ const VideoGallery = () => {
   const handleSubscribe = () => {
     trackPurchase(49.99, 'Pottery Video Series');
     trackEvent('purchase_intent', 'Ecommerce', 'Video Series', 49.99);
-    window.open('https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV', '_blank');
+    window.open('https://payhip.com/b/89jNv', '_blank');
   };
 
   return (
@@ -309,7 +309,7 @@ const VideoGallery = () => {
               "name": "Complete Pottery Video Series",
               "price": "49.99",
               "priceCurrency": "USD",
-              "url": "https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV",
+              "url": "https://payhip.com/b/89jNv",
               "description": "8 professional video tutorials, PDF guides, lifetime access",
               "category": "Pottery Education",
               "availability": "https://schema.org/InStock",
@@ -395,7 +395,7 @@ const VideoGallery = () => {
                 "price": "49.99",
                 "priceCurrency": "USD",
                 "availability": "https://schema.org/InStock",
-                "url": "https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV",
+                "url": "https://payhip.com/b/89jNv",
                 "category": "Pottery Education",
                 "description": "Included in complete pottery video series"
               },

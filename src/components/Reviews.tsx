@@ -294,7 +294,7 @@ const Reviews = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button
-              onClick={() => window.open('https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV', '_blank')}
+              onClick={() => window.open('https://payhip.com/b/89jNv', '_blank')}
               className="bg-white text-amber-700 hover:bg-gray-100 px-8 py-4 rounded-full font-bold text-lg transition-all duration-300 transform hover:scale-105 shadow-xl"
             >
               Get Video Series - $49.99

@@ -9,7 +9,7 @@ const Header = () => {
   const isActive = (path: string) => location.pathname === path;
 
   const handleVideoSeriesClick = () => {
-    window.open('https://payhip.com/order?link=89jNv&pricing_plan=N9G85yl1WV', '_blank');
+    window.open('https://payhip.com/b/89jNv', '_blank');
   };
 
   return (
